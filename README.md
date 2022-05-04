@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=leopardst&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=leopardst&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leopardst&hide=TeX&layout=compact)
 
