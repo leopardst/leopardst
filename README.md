@@ -2,7 +2,7 @@
 leopardst/leopardst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, 𝗜'𝗺 Stanley George
+# 👋 Hi, 𝗜'𝗺 Velibor Santic
 
 [![](https://img.shields.io/badge/-@leopardst-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/leopardst)
 [![](https://img.shields.io/badge/-@leopardst-%23181717?style=flat-square&logo=github)](https://github.com/leopardst)
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-@leopardst-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/leopardst)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://leopardst.me)
 
-👀 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+👀 𝑰 ❤️ **_Mobile_** and 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 :computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 and React Native 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
 
